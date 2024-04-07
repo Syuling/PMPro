@@ -58,7 +58,7 @@ If you use this code in your research, please kindly cite the following papers:
   title={Partial-tuning based mixed-modal prototypes for few-shot classification},
   author={ Su, Yuling and Liu, Xueliang and Zhao, Ye and Hong, Richang and Wang, Meng},
   year={2024},
-  journal={IEEE Transactions on Multimedia},s
+  journal={IEEE Transactions on Multimedia},
 }
 ```
 

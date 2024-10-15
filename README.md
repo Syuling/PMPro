@@ -50,6 +50,8 @@ For all dataset training, you can use
 bash all_training.sh
 ```
 
+The main comparison data is listed in comparison results.xlsx
+
 ## Citation
 If you use this code in your research, please kindly cite the following papers:
 
